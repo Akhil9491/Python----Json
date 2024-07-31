@@ -1,0 +1,31 @@
+{
+    "people": [
+        {
+            "name": "Bem",
+            "age": "23",
+            "hight": 5.6
+        },
+        {
+            "name": "jony",
+            "age": "44",
+            "hight": 5.0
+        },
+        {
+            "name": "Bobber",
+            "age": "38",
+            "hight": 53
+        }
+    ],
+    "Unit": [
+        {
+            "BranchCode": 2101,
+            "Branch lead": "Prasad Rao",
+            "State": "Andhra pradesh"
+        },
+        {
+            "BranchCode": 12412,
+            "Branch lead": "Hindho",
+            "State": "Uthara Knand"
+        }
+    ]
+}
